@@ -1,7 +1,7 @@
 /**
-* Template Name: jiashuo
+* Template Name: JinTuDi LingFeng
 * Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/jiashuo-bootstrap-business-template/
+* Template URL: https://bootstrapmade.com/JinTuDi LingFeng-bootstrap-business-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
